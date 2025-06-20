@@ -1,0 +1,19 @@
+# Notebook checkpoints (from all folders)
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*/__pycache__/
+
+
+# VS Code settings
+.vscode/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Logs or cache
+*.log
+*.cache
