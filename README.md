@@ -34,8 +34,8 @@ This project demonstrates a full pipeline of:
 
 
 ```md
-![Streamlit App](images/1.png)
-![EDA Plot](images/2.png)
+![Streamlit App](Medical Insurance Cost Prediction/images/1.png)
+![EDA Plot](Medical Insurance Cost Prediction/images/2.png)
 ```
 
 ---
