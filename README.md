@@ -30,13 +30,6 @@ This project demonstrates a full pipeline of:
 
 ---
 
-## 🖼 Screenshots
-
-
-```md
-![Streamlit App](Medical Insurance Cost Prediction/images/streamlit.png)
-![EDA Plot](Medical Insurance Cost Prediction/images/eda.png)
-```
 
 ---
 
